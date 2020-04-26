@@ -29,4 +29,5 @@ def printer
     badges.each do |name|
       puts badges
   end
+end
   
